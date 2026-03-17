@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:brown;
+    color: white
+}
+
+.fundo{
+    background-color:rgb(124, 33, 11);
+    width: 660px;
+    margin: 0 auto;
+}
+ 
+.flex{
+    display:flex;
+}
+
+.amarelo {
+    background-color: rgb(92, 13, 13);
+    padding:80px;
+    margin:10px;
+}
+
+.alongar {
+    padding-right: 279px;
+}
+
+.alonga {
+    padding-right: 520px;
+}
+
+.estica {
+    padding-bottom: 470px;
+}
+
+.esticar {
+    padding-bottom: 280px;
+}
+
+.coluna {
+    display:flex;
+    flex-direction: column;
+}
+
+.cubo {
+    padding-bottom: 271px;
+}
